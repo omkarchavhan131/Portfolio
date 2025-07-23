@@ -35,7 +35,7 @@ const Resume = () => (
     </div>
     <div className="download-cv">
       <button>
-        <a href="https://drive.google.com/file/d/1IrEUf3jZuTxFYGPO7dQfumESXxPq72TI/view?usp=sharing" style={{ color: "white" }}>
+        <a href="https://drive.google.com/file/d/1F7KQAnDVKs47IWbTIgj2xiR_s3NRJBoY/view?usp=sharing" style={{ color: "white" }}>
           Download CV
         </a>
       </button>

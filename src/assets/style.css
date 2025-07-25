@@ -338,6 +338,7 @@ body {
         grid-row: 2/4;
         align-items: end;
         justify-content: end;
+        display:none;
     }
 
     .abt-name {

@@ -224,6 +224,7 @@ body {
 .about {
     height: auto;
     width: 100%;
+    box-sizing: border-box;
     background-color: aliceblue;
     border-radius: 1rem;
     position: relative;
@@ -236,19 +237,19 @@ body {
     left: 0;
 }
 
-.abt-img {
+/* .abt-img {
     grid-column: 1/2;
     grid-row: 2/4;
     align-items: center;
     justify-content: center;
     transition: 0.5s all ease;
-}
+} */
 
 .abt-img:hover {
     transform: scale(1.04);
 }
 
-.myabt-img {
+/* .myabt-img {
     height: 250px;
     width: auto;
     margin-top: 2rem;
@@ -256,7 +257,7 @@ body {
     border-radius: 0.8rem;
     border: 2px solid rgb(133, 124, 24);
     padding: 0.5rem;
-}
+} */
 
 .abt-name {
     grid-column: 2/4;
